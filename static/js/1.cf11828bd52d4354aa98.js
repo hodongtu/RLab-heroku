@@ -1,2 +1,0 @@
-webpackJsonp([1],{ITYe:function(e,t){},XlR0:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"jumbotron"},[t("h2",[this._v("Hello, world!")]),this._v(" "),t("p",[this._v("Coming soon...")])])}]};var s=n("VU/8")({name:"Risk-Division"},i,!1,function(e){n("ITYe")},"data-v-03907898",null);t.default=s.exports}});
-//# sourceMappingURL=1.cf11828bd52d4354aa98.js.map
